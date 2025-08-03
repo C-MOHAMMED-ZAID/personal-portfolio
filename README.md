@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio built with React. This project showca
 
 ## 📌 Live Demo
 
-🚀 [Visit My Portfolio][(https://your-live-link.vercel.app)](https://personal-portfolio-swart-delta-14.vercel.app/experience)  
+🚀 [Visit My Portfolio][(https://your-live-link.vercel.app)](https://personal-portfolio-swart-delta-14.vercel.app)  
 📧 Email: mohammedzaid.connect@gmail.com  
 📍 Location: Chennai, Tamil Nadu, India
 
@@ -119,3 +119,4 @@ This project is open-source and free to use. Feel free to fork or modify it for 
 This portfolio is not just a website — it’s my digital identity as a developer. Every line of code in this project reflects my dedication to becoming better and pushing beyond comfort. I'm continuously learning and this portfolio will keep evolving with me.
 
 Thanks for checking it out! 🚀
+

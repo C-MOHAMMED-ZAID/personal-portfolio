@@ -1,0 +1,11 @@
+.app-container {
+  background-color: #121212;
+  color: white;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.content {
+  padding: 20px;
+  text-align: center;
+}
